@@ -11,6 +11,8 @@ import Auth from './containers/Auth/Auth';
 // Route exact: como os dois começam com "/" com o link ./ os dois componentes vão ser renderizados > exact evita isso
 //The <Switch /> component will only render the first route that matches/includes the path.
 
+
+//comment git
 class App extends Component {
   render() {
     return (
